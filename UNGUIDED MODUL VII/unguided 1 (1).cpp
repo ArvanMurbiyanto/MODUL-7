@@ -1,5 +1,4 @@
 
-//2311102180
 #include <iostream>
 using namespace std;
 const int maksimalQueue = 5; // Maksimal antrian
